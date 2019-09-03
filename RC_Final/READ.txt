@@ -2,4 +2,6 @@ This the basic cryptography project based on RC family
 
 The project is developed in java using the Cipher class and a external library named BouncyCastle
 
+We are using netbeans 8.2 for building this project
+
 My friend Yogesh Sahu is helped me to developed this project
