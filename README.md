@@ -5,6 +5,9 @@ This is the basic project in RC cryptography which is showing you the RC2 ,RC4 ,
 
 This this the GUI based java application that is showing you the time of encryption and decryption for a particular file, The ENC and DEC file is also saved in your current directory from where you have choosen the file.
 
+##Use netbeans IDE
+Download the zip and open the project in netbeans IDE
+
 ## Guide By :-
 **Prof. Manoj Tyagi Sir**
 HOD computer science in Truba college of science and technology , Bhopal ,MP.
